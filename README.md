@@ -2,7 +2,7 @@
 
 ### Run main
 
-`mvn exec:java`
+`mvn compile exec:java`
 
 ### Run tests
 
